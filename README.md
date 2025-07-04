@@ -57,3 +57,10 @@ ALPHA_VANTAGE_API_KEY=your_api_key_here
 **4. Run the app**
 - Select your emulator or connected device
 - Click the green **"Run"** ▶️ button or press `Shift + F10`
+
+## 🙌 Author
+
+**Darshika**  
+ Android | Kotlin | Jetpack Compose  
+ darshika13517@gmail.com
+
